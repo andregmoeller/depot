@@ -14,7 +14,7 @@ Product.create!(title: 'Ruby on Rails Poster',
 Product.create!(title: 'Ruby Poster',
                 description:
                     %{<p>
-      <em>A dynamic, open source programming language with a focus on simplicity and productivity./em>
+      <em>A dynamic, open source programming language with a focus on simplicity and productivity.</em>
       Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
