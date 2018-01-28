@@ -3,11 +3,17 @@
 one:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: lorem.jpg
   price: 9.99
 
 two:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: lorem.jpg
+  price: 9.99
+
+ruby_poster:
+  title: Ruby Poster
+  description: A dynamic, open source programming language with a focus on simplicity and productivity.
+  image_url: product_ruby.jpg
   price: 9.99
