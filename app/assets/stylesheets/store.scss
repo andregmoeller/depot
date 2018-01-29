@@ -20,12 +20,29 @@
         display: block;
       }
 
+      form, div {
+        display: inline;
+      }
+
       img {
         float: left;
         padding: 1em;
         margin-right: 1em;
         margin-bottom: 1em;
         box-shadow: 0.176em 0.176em 0.354em 0px rgba(0,0,0,0.75);
+      }
+
+      input[type="submit"] {
+        background-color: #282;
+        border-radius: 0.354em;
+        border: solid thin #141;
+        color: white;
+        font-size: 1em;
+        padding: 0.354em 1em;
+
+        &:hover {
+          background-color: #141;
+        }
       }
 
       .price {
